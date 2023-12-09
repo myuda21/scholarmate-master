@@ -1,0 +1,1 @@
+<a href="{{ route('home') }}" class="text-dark d-flex align-items-center text-decoration-none fs-4 position-relative top ps-5 pt-4"><ion-icon name="arrow-back-circle-outline" class="me-1"></ion-icon> Back to Home </a>

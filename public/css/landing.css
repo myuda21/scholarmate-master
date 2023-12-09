@@ -1,0 +1,16 @@
+.hero{
+    background-image: url(../assets/landingBackground.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.navbar{
+    background: linear-gradient(to bottom, black, transparent);
+    transition: 0.5s;
+}
+
+.navbar.scrolled{
+    background: white;
+    transition: 0.5s;
+}
